@@ -1,0 +1,130 @@
+{
+    "locations": [
+        {
+            "id":1,
+            "address": "123 Main Street",
+            "squareFootage": 1200,
+            "handicapAccess": true
+        },
+        {
+            "id":2,
+            "address": "450 Sesame Street",
+            "squareFootage": 800,
+            "handicapAccess": false
+        },
+        {
+            "id":3,
+            "address": "101 Maple Road Drive",
+            "squareFootage": 1100,
+            "handicapAccess": true
+        },
+        {
+            "id":4,
+            "address": "912 Rosewood Street",
+            "squareFootage": 700,
+            "handicapAccess": false
+        },
+        {
+            "id":5,
+            "address": "464 Athena Drive",
+            "squareFootage": 1000,
+            "handicapAccess": true
+        }
+    ],
+
+    "productTypes": [
+
+        {
+            "id": 1,
+            "name": "hard candy"
+        },
+        {
+            "id": 2,
+            "name": "gum"
+        },
+        {
+            "id": 3,
+            "name": "chocolate"
+        },
+        {
+            "id": 4,
+            "name": "sodas"
+        }
+    ],
+
+    "Products": [
+
+        {
+            "id":1,
+            "name": "Hersey's Kiss",
+            "productTypeId":3,
+            "price": 2.75
+        },
+        {
+            "id":2,
+            "name": "Bazooka Joe",
+            "productTypeId":2,
+            "price": 3.00
+        },
+        {
+            "id":3,
+            "name": "Nerds",
+            "productTypeId":1,
+            "price": 3.50
+        },
+        {
+            "id":4,
+            "name": "Jolly Ranchers",
+            "productTypeId":1,
+            "price": 2.25
+        },
+        {
+            "id":5,
+            "name": "Trident",
+            "productTypeId":2,
+            "price": 1.00
+        },
+        {
+            "id":6,
+            "name": "Almond Joys",
+            "productTypeId":3,
+            "price": 3.99
+        },
+        {
+            "id":7,
+            "name": "Dr.Pepper",
+            "productTypeId":4,
+            "price": 2.25
+        },
+        {
+            "id":8,
+            "name": "Sprite",
+            "productTypeId":4,
+            "price": 2.25
+        },
+        {
+            "id":9,
+            "name": "Smarties",
+            "productTypeId":1,
+            "price": 2.00
+        },
+        {
+            "id":10,
+            "name": "5 Gume",
+            "productTypeId":2,
+            "price": 1.00
+        },
+        {
+            "id":11,
+            "name": "Toberlone",
+            "productTypeId":3,
+            "price": 6.99
+        },
+        {
+            "id":12,
+            "name": "Coke",
+            "productTypeId":4,
+            "price": 2.25
+        }
+    ]
+}
