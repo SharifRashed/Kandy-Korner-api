@@ -126,5 +126,49 @@
             "productTypeId":4,
             "price": 2.25
         }
+    ],
+
+    "Employees": [
+        {
+            "id": 1,
+            "name": "Jimmy Two Shoes",
+            "locationId":1
+        },
+        {
+            "id": 2,
+            "name": "John Salamander",
+            "locationId":2
+        },
+        {
+            "id": 3,
+            "name": "Jessica Day",
+            "locationId":3
+        },
+        {
+            "id": 4,
+            "name": "Chris Three Shoes",
+            "locationId":4
+        },
+        {
+            "id": 5,
+            "name": "Rebecca Snow",
+            "locationId":5
+        },
+        {
+            "id": 6,
+            "name": "Brand Stark",
+            "locationId":1
+        },
+        {
+            "id": 7,
+            "name": "Oberon Martell",
+            "locationId":2
+        },
+        {
+            "id": 8,
+            "name": "Samantha Queen",
+            "locationId":3
+        }
+      
     ]
 }
